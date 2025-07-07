@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "5e9b165c",
+   "id": "ca39c0c7",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:24.534969Z",
-     "iopub.status.busy": "2025-07-06T20:10:24.534532Z",
-     "iopub.status.idle": "2025-07-06T20:10:26.887697Z",
-     "shell.execute_reply": "2025-07-06T20:10:26.886452Z"
+     "iopub.execute_input": "2025-07-07T08:14:32.393330Z",
+     "iopub.status.busy": "2025-07-07T08:14:32.393115Z",
+     "iopub.status.idle": "2025-07-07T08:14:33.762688Z",
+     "shell.execute_reply": "2025-07-07T08:14:33.761906Z"
     },
     "papermill": {
-     "duration": 2.362329,
-     "end_time": "2025-07-06T20:10:26.889348",
+     "duration": 1.375395,
+     "end_time": "2025-07-07T08:14:33.763850",
      "exception": false,
-     "start_time": "2025-07-06T20:10:24.527019",
+     "start_time": "2025-07-07T08:14:32.388455",
      "status": "completed"
     },
     "tags": []
@@ -54,13 +54,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "eedb6906",
+   "id": "1661b86c",
    "metadata": {
     "papermill": {
-     "duration": 0.003878,
-     "end_time": "2025-07-06T20:10:26.897692",
+     "duration": 0.003419,
+     "end_time": "2025-07-07T08:14:33.771187",
      "exception": false,
-     "start_time": "2025-07-06T20:10:26.893814",
+     "start_time": "2025-07-07T08:14:33.767768",
      "status": "completed"
     },
     "tags": []
@@ -74,19 +74,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "82b0a5a4",
+   "id": "4fc81618",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:26.907006Z",
-     "iopub.status.busy": "2025-07-06T20:10:26.906625Z",
-     "iopub.status.idle": "2025-07-06T20:10:26.911922Z",
-     "shell.execute_reply": "2025-07-06T20:10:26.910861Z"
+     "iopub.execute_input": "2025-07-07T08:14:33.778596Z",
+     "iopub.status.busy": "2025-07-07T08:14:33.778289Z",
+     "iopub.status.idle": "2025-07-07T08:14:33.781624Z",
+     "shell.execute_reply": "2025-07-07T08:14:33.780932Z"
     },
     "papermill": {
-     "duration": 0.012217,
-     "end_time": "2025-07-06T20:10:26.913880",
+     "duration": 0.008181,
+     "end_time": "2025-07-07T08:14:33.782688",
      "exception": false,
-     "start_time": "2025-07-06T20:10:26.901663",
+     "start_time": "2025-07-07T08:14:33.774507",
      "status": "completed"
     },
     "tags": []
@@ -101,13 +101,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "f63e799f",
+   "id": "10b39466",
    "metadata": {
     "papermill": {
-     "duration": 0.004275,
-     "end_time": "2025-07-06T20:10:26.922954",
+     "duration": 0.003062,
+     "end_time": "2025-07-07T08:14:33.789028",
      "exception": false,
-     "start_time": "2025-07-06T20:10:26.918679",
+     "start_time": "2025-07-07T08:14:33.785966",
      "status": "completed"
     },
     "tags": []
@@ -119,19 +119,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "f5c82d83",
+   "id": "6e54a561",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:26.933545Z",
-     "iopub.status.busy": "2025-07-06T20:10:26.933148Z",
-     "iopub.status.idle": "2025-07-06T20:10:27.417642Z",
-     "shell.execute_reply": "2025-07-06T20:10:27.416637Z"
+     "iopub.execute_input": "2025-07-07T08:14:33.796540Z",
+     "iopub.status.busy": "2025-07-07T08:14:33.795984Z",
+     "iopub.status.idle": "2025-07-07T08:14:34.111578Z",
+     "shell.execute_reply": "2025-07-07T08:14:34.110666Z"
     },
     "papermill": {
-     "duration": 0.492263,
-     "end_time": "2025-07-06T20:10:27.419671",
+     "duration": 0.32136,
+     "end_time": "2025-07-07T08:14:34.113548",
      "exception": false,
-     "start_time": "2025-07-06T20:10:26.927408",
+     "start_time": "2025-07-07T08:14:33.792188",
      "status": "completed"
     },
     "tags": []
@@ -143,13 +143,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "fc2048e2",
+   "id": "d7b36b46",
    "metadata": {
     "papermill": {
-     "duration": 0.003809,
-     "end_time": "2025-07-06T20:10:27.428353",
+     "duration": 0.004286,
+     "end_time": "2025-07-07T08:14:34.122426",
      "exception": false,
-     "start_time": "2025-07-06T20:10:27.424544",
+     "start_time": "2025-07-07T08:14:34.118140",
      "status": "completed"
     },
     "tags": []
@@ -163,19 +163,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "88ef757a",
+   "id": "eb870c4e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:27.438074Z",
-     "iopub.status.busy": "2025-07-06T20:10:27.437779Z",
-     "iopub.status.idle": "2025-07-06T20:10:27.453972Z",
-     "shell.execute_reply": "2025-07-06T20:10:27.452607Z"
+     "iopub.execute_input": "2025-07-07T08:14:34.132369Z",
+     "iopub.status.busy": "2025-07-07T08:14:34.132096Z",
+     "iopub.status.idle": "2025-07-07T08:14:34.146042Z",
+     "shell.execute_reply": "2025-07-07T08:14:34.145207Z"
     },
     "papermill": {
-     "duration": 0.022884,
-     "end_time": "2025-07-06T20:10:27.455578",
+     "duration": 0.019588,
+     "end_time": "2025-07-07T08:14:34.147410",
      "exception": false,
-     "start_time": "2025-07-06T20:10:27.432694",
+     "start_time": "2025-07-07T08:14:34.127822",
      "status": "completed"
     },
     "tags": []
@@ -203,19 +203,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "1f427d19",
+   "id": "66ec89e0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:27.465498Z",
-     "iopub.status.busy": "2025-07-06T20:10:27.465085Z",
-     "iopub.status.idle": "2025-07-06T20:10:35.496515Z",
-     "shell.execute_reply": "2025-07-06T20:10:35.495270Z"
+     "iopub.execute_input": "2025-07-07T08:14:34.156669Z",
+     "iopub.status.busy": "2025-07-07T08:14:34.156463Z",
+     "iopub.status.idle": "2025-07-07T08:15:56.040420Z",
+     "shell.execute_reply": "2025-07-07T08:15:56.039606Z"
     },
     "papermill": {
-     "duration": 8.038359,
-     "end_time": "2025-07-06T20:10:35.498280",
+     "duration": 81.889795,
+     "end_time": "2025-07-07T08:15:56.041801",
      "exception": false,
-     "start_time": "2025-07-06T20:10:27.459921",
+     "start_time": "2025-07-07T08:14:34.152006",
      "status": "completed"
     },
     "tags": []
@@ -232,7 +232,7 @@
     "files = pd.DataFrame(columns = [\"id\", \"image_data\"])\n",
     "file_list = listdir(mypath)\n",
     "\n",
-    "for file in range(10):  #file_list\n",
+    "for file in range(10000):  #file_list\n",
     "    \n",
     "    current_file_path = join(mypath, file_list[file])\n",
     "\n",
@@ -246,19 +246,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "5dbaac5d",
+   "id": "276d3133",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:35.508447Z",
-     "iopub.status.busy": "2025-07-06T20:10:35.508103Z",
-     "iopub.status.idle": "2025-07-06T20:10:35.611901Z",
-     "shell.execute_reply": "2025-07-06T20:10:35.610916Z"
+     "iopub.execute_input": "2025-07-07T08:15:56.049863Z",
+     "iopub.status.busy": "2025-07-07T08:15:56.049657Z",
+     "iopub.status.idle": "2025-07-07T08:15:56.120779Z",
+     "shell.execute_reply": "2025-07-07T08:15:56.120193Z"
     },
     "papermill": {
-     "duration": 0.110795,
-     "end_time": "2025-07-06T20:10:35.613594",
+     "duration": 0.076283,
+     "end_time": "2025-07-07T08:15:56.121942",
      "exception": false,
-     "start_time": "2025-07-06T20:10:35.502799",
+     "start_time": "2025-07-07T08:15:56.045659",
      "status": "completed"
     },
     "tags": []
@@ -271,19 +271,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "9881fb8c",
+   "id": "307161d1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:35.623881Z",
-     "iopub.status.busy": "2025-07-06T20:10:35.623046Z",
-     "iopub.status.idle": "2025-07-06T20:10:39.495898Z",
-     "shell.execute_reply": "2025-07-06T20:10:39.494731Z"
+     "iopub.execute_input": "2025-07-07T08:15:56.129546Z",
+     "iopub.status.busy": "2025-07-07T08:15:56.129352Z",
+     "iopub.status.idle": "2025-07-07T08:15:59.291412Z",
+     "shell.execute_reply": "2025-07-07T08:15:59.290499Z"
     },
     "papermill": {
-     "duration": 3.879502,
-     "end_time": "2025-07-06T20:10:39.497465",
+     "duration": 3.167173,
+     "end_time": "2025-07-07T08:15:59.292654",
      "exception": false,
-     "start_time": "2025-07-06T20:10:35.617963",
+     "start_time": "2025-07-07T08:15:56.125481",
      "status": "completed"
     },
     "tags": []
@@ -309,19 +309,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "89be84cc",
+   "id": "7d3955f0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:39.507492Z",
-     "iopub.status.busy": "2025-07-06T20:10:39.506808Z",
-     "iopub.status.idle": "2025-07-06T20:10:39.511683Z",
-     "shell.execute_reply": "2025-07-06T20:10:39.510916Z"
+     "iopub.execute_input": "2025-07-07T08:15:59.300605Z",
+     "iopub.status.busy": "2025-07-07T08:15:59.300390Z",
+     "iopub.status.idle": "2025-07-07T08:15:59.304728Z",
+     "shell.execute_reply": "2025-07-07T08:15:59.304023Z"
     },
     "papermill": {
-     "duration": 0.0117,
-     "end_time": "2025-07-06T20:10:39.513338",
+     "duration": 0.009438,
+     "end_time": "2025-07-07T08:15:59.305729",
      "exception": false,
-     "start_time": "2025-07-06T20:10:39.501638",
+     "start_time": "2025-07-07T08:15:59.296291",
      "status": "completed"
     },
     "tags": []
@@ -333,13 +333,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "09c60fb4",
+   "id": "7d438e66",
    "metadata": {
     "papermill": {
-     "duration": 0.003776,
-     "end_time": "2025-07-06T20:10:39.521342",
+     "duration": 0.003695,
+     "end_time": "2025-07-07T08:15:59.312763",
      "exception": false,
-     "start_time": "2025-07-06T20:10:39.517566",
+     "start_time": "2025-07-07T08:15:59.309068",
      "status": "completed"
     },
     "tags": []
@@ -352,19 +352,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "d775f87c",
+   "id": "0bd2362c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:39.530938Z",
-     "iopub.status.busy": "2025-07-06T20:10:39.530641Z",
-     "iopub.status.idle": "2025-07-06T20:10:39.534948Z",
-     "shell.execute_reply": "2025-07-06T20:10:39.534037Z"
+     "iopub.execute_input": "2025-07-07T08:15:59.319862Z",
+     "iopub.status.busy": "2025-07-07T08:15:59.319668Z",
+     "iopub.status.idle": "2025-07-07T08:15:59.322906Z",
+     "shell.execute_reply": "2025-07-07T08:15:59.322266Z"
     },
     "papermill": {
-     "duration": 0.011212,
-     "end_time": "2025-07-06T20:10:39.536533",
+     "duration": 0.008033,
+     "end_time": "2025-07-07T08:15:59.323999",
      "exception": false,
-     "start_time": "2025-07-06T20:10:39.525321",
+     "start_time": "2025-07-07T08:15:59.315966",
      "status": "completed"
     },
     "tags": []
@@ -379,13 +379,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "be8791e2",
+   "id": "f0d0360a",
    "metadata": {
     "papermill": {
-     "duration": 0.003866,
-     "end_time": "2025-07-06T20:10:39.545255",
+     "duration": 0.003268,
+     "end_time": "2025-07-07T08:15:59.330572",
      "exception": false,
-     "start_time": "2025-07-06T20:10:39.541389",
+     "start_time": "2025-07-07T08:15:59.327304",
      "status": "completed"
     },
     "tags": []
@@ -399,19 +399,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "da4b069c",
+   "id": "489815ee",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:39.554486Z",
-     "iopub.status.busy": "2025-07-06T20:10:39.554128Z",
-     "iopub.status.idle": "2025-07-06T20:10:39.559563Z",
-     "shell.execute_reply": "2025-07-06T20:10:39.558398Z"
+     "iopub.execute_input": "2025-07-07T08:15:59.337997Z",
+     "iopub.status.busy": "2025-07-07T08:15:59.337492Z",
+     "iopub.status.idle": "2025-07-07T08:15:59.341325Z",
+     "shell.execute_reply": "2025-07-07T08:15:59.340671Z"
     },
     "papermill": {
-     "duration": 0.011893,
-     "end_time": "2025-07-06T20:10:39.561128",
+     "duration": 0.008549,
+     "end_time": "2025-07-07T08:15:59.342337",
      "exception": false,
-     "start_time": "2025-07-06T20:10:39.549235",
+     "start_time": "2025-07-07T08:15:59.333788",
      "status": "completed"
     },
     "tags": []
@@ -432,19 +432,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "326bb325",
+   "id": "52ff6a91",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:39.572797Z",
-     "iopub.status.busy": "2025-07-06T20:10:39.572474Z",
-     "iopub.status.idle": "2025-07-06T20:10:39.796608Z",
-     "shell.execute_reply": "2025-07-06T20:10:39.795536Z"
+     "iopub.execute_input": "2025-07-07T08:15:59.349832Z",
+     "iopub.status.busy": "2025-07-07T08:15:59.349644Z",
+     "iopub.status.idle": "2025-07-07T08:15:59.556852Z",
+     "shell.execute_reply": "2025-07-07T08:15:59.556146Z"
     },
     "papermill": {
-     "duration": 0.23302,
-     "end_time": "2025-07-06T20:10:39.798497",
+     "duration": 0.212509,
+     "end_time": "2025-07-07T08:15:59.558257",
      "exception": false,
-     "start_time": "2025-07-06T20:10:39.565477",
+     "start_time": "2025-07-07T08:15:59.345748",
      "status": "completed"
     },
     "tags": []
@@ -453,7 +453,7 @@
     {
      "data": {
       "text/plain": [
-       "<matplotlib.image.AxesImage at 0x7a040db41350>"
+       "<matplotlib.image.AxesImage at 0x7972a441f750>"
       ]
      },
      "execution_count": 11,
@@ -477,13 +477,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7f37f8c4",
+   "id": "a52e63ca",
    "metadata": {
     "papermill": {
-     "duration": 0.00478,
-     "end_time": "2025-07-06T20:10:39.808483",
+     "duration": 0.004095,
+     "end_time": "2025-07-07T08:15:59.567013",
      "exception": false,
-     "start_time": "2025-07-06T20:10:39.803703",
+     "start_time": "2025-07-07T08:15:59.562918",
      "status": "completed"
     },
     "tags": []
@@ -498,146 +498,45 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "702dc34d",
+   "id": "826d7be9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:39.819926Z",
-     "iopub.status.busy": "2025-07-06T20:10:39.819598Z",
-     "iopub.status.idle": "2025-07-06T20:10:39.825113Z",
-     "shell.execute_reply": "2025-07-06T20:10:39.824259Z"
+     "iopub.execute_input": "2025-07-07T08:15:59.576140Z",
+     "iopub.status.busy": "2025-07-07T08:15:59.575935Z",
+     "iopub.status.idle": "2025-07-07T08:16:03.147717Z",
+     "shell.execute_reply": "2025-07-07T08:16:03.147111Z"
     },
     "papermill": {
-     "duration": 0.013527,
-     "end_time": "2025-07-06T20:10:39.826937",
+     "duration": 3.577913,
+     "end_time": "2025-07-07T08:16:03.149056",
      "exception": false,
-     "start_time": "2025-07-06T20:10:39.813410",
+     "start_time": "2025-07-07T08:15:59.571143",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
    "source": [
-    "x_train = complete_files[:,0] / 255\n",
-    "y_train = complete_files[:,1] \n",
-    "\n",
-    "#for image in range(len(complete_files)):\n",
-    "#    complete_files[image,0] = complete_files[image,0] / 255\n",
-    "\n",
-    "#print(complete_files[0])"
+    "# make values to be in range of 0-1\n",
+    "x_train = (complete_files[:,0] / 255) - 0.5"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "5d560bf4",
+   "id": "11569aac",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:39.838805Z",
-     "iopub.status.busy": "2025-07-06T20:10:39.838406Z",
-     "iopub.status.idle": "2025-07-06T20:10:39.845079Z",
-     "shell.execute_reply": "2025-07-06T20:10:39.843906Z"
+     "iopub.execute_input": "2025-07-07T08:16:03.158916Z",
+     "iopub.status.busy": "2025-07-07T08:16:03.158710Z",
+     "iopub.status.idle": "2025-07-07T08:16:03.810630Z",
+     "shell.execute_reply": "2025-07-07T08:16:03.810040Z"
     },
     "papermill": {
-     "duration": 0.014554,
-     "end_time": "2025-07-06T20:10:39.846886",
+     "duration": 0.658286,
+     "end_time": "2025-07-07T08:16:03.812044",
      "exception": false,
-     "start_time": "2025-07-06T20:10:39.832332",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "[[[0.94509804 0.96470588 0.98039216]\n",
-      "  [1.         0.98431373 1.        ]\n",
-      "  [0.96470588 0.86666667 0.95294118]\n",
-      "  ...\n",
-      "  [0.80784314 0.58039216 0.67843137]\n",
-      "  [0.81176471 0.59215686 0.69019608]\n",
-      "  [0.8627451  0.65098039 0.74509804]]\n",
-      "\n",
-      " [[0.96078431 0.94901961 0.97647059]\n",
-      "  [1.         0.94901961 1.        ]\n",
-      "  [0.57647059 0.45098039 0.54117647]\n",
-      "  ...\n",
-      "  [0.94901961 0.72156863 0.81960784]\n",
-      "  [0.98823529 0.76862745 0.86666667]\n",
-      "  [0.90196078 0.69019608 0.79215686]]\n",
-      "\n",
-      " [[1.         0.97647059 1.        ]\n",
-      "  [0.83921569 0.73333333 0.80784314]\n",
-      "  [0.82745098 0.65882353 0.76470588]\n",
-      "  ...\n",
-      "  [0.82352941 0.58823529 0.69019608]\n",
-      "  [0.88627451 0.65490196 0.76470588]\n",
-      "  [0.78431373 0.56470588 0.67058824]]\n",
-      "\n",
-      " ...\n",
-      "\n",
-      " [[0.88627451 0.79215686 0.84705882]\n",
-      "  [0.8745098  0.78823529 0.83529412]\n",
-      "  [1.         0.94509804 0.98039216]\n",
-      "  ...\n",
-      "  [0.92941176 0.80784314 0.86666667]\n",
-      "  [0.97647059 0.87058824 0.90588235]\n",
-      "  [1.         0.89411765 0.92156863]]\n",
-      "\n",
-      " [[1.         0.96078431 1.        ]\n",
-      "  [0.97254902 0.87843137 0.93333333]\n",
-      "  [0.73333333 0.64705882 0.69411765]\n",
-      "  ...\n",
-      "  [1.         0.96862745 1.        ]\n",
-      "  [1.         0.94117647 0.99215686]\n",
-      "  [0.99215686 0.89019608 0.93333333]]\n",
-      "\n",
-      " [[0.94509804 0.83137255 0.90980392]\n",
-      "  [1.         0.90588235 0.97254902]\n",
-      "  [0.98039216 0.8745098  0.93333333]\n",
-      "  ...\n",
-      "  [0.90980392 0.84313725 0.88235294]\n",
-      "  [0.86666667 0.78823529 0.83137255]\n",
-      "  [0.73333333 0.63921569 0.69019608]]]\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(x_train[0])"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "811c4914",
-   "metadata": {
-    "papermill": {
-     "duration": 0.005015,
-     "end_time": "2025-07-06T20:10:39.857893",
-     "exception": false,
-     "start_time": "2025-07-06T20:10:39.852878",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 14,
-   "id": "6d6c3e09",
-   "metadata": {
-    "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:39.869988Z",
-     "iopub.status.busy": "2025-07-06T20:10:39.869518Z",
-     "iopub.status.idle": "2025-07-06T20:10:39.876934Z",
-     "shell.execute_reply": "2025-07-06T20:10:39.876051Z"
-    },
-    "papermill": {
-     "duration": 0.015548,
-     "end_time": "2025-07-06T20:10:39.878611",
-     "exception": false,
-     "start_time": "2025-07-06T20:10:39.863063",
+     "start_time": "2025-07-07T08:16:03.153758",
      "status": "completed"
     },
     "tags": []
@@ -645,25 +544,52 @@
    "outputs": [],
    "source": [
     "# numpy was a series of array with stack this can be undone\n",
-    "x_train = np.stack(x_train, axis = 0)"
+    "X = np.stack(x_train, axis = 0)\n",
+    "y = complete_files[:,1] #.astype(\"float64\") "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "332261e0",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-07T08:16:03.822235Z",
+     "iopub.status.busy": "2025-07-07T08:16:03.822022Z",
+     "iopub.status.idle": "2025-07-07T08:16:05.355500Z",
+     "shell.execute_reply": "2025-07-07T08:16:05.354650Z"
+    },
+    "papermill": {
+     "duration": 1.54018,
+     "end_time": "2025-07-07T08:16:05.356911",
+     "exception": false,
+     "start_time": "2025-07-07T08:16:03.816731",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "from sklearn.model_selection import train_test_split\n",
+    "X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=4790)\n"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "fd8d64e5",
+   "id": "50ccfafb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-06T20:10:39.890260Z",
-     "iopub.status.busy": "2025-07-06T20:10:39.889892Z",
-     "iopub.status.idle": "2025-07-06T20:11:00.776973Z",
-     "shell.execute_reply": "2025-07-06T20:11:00.775706Z"
+     "iopub.execute_input": "2025-07-07T08:16:05.366543Z",
+     "iopub.status.busy": "2025-07-07T08:16:05.366168Z",
+     "iopub.status.idle": "2025-07-07T08:16:21.852763Z",
+     "shell.execute_reply": "2025-07-07T08:16:21.851848Z"
     },
     "papermill": {
-     "duration": 20.895597,
-     "end_time": "2025-07-06T20:11:00.779470",
+     "duration": 16.492616,
+     "end_time": "2025-07-07T08:16:21.854039",
      "exception": false,
-     "start_time": "2025-07-06T20:10:39.883873",
+     "start_time": "2025-07-07T08:16:05.361423",
      "status": "completed"
     },
     "tags": []
@@ -673,43 +599,308 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "2025-07-06 20:10:42.001493: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\n",
+      "2025-07-07 08:16:06.816380: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\n",
       "WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n",
-      "E0000 00:00:1751832642.317724      13 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\n",
-      "E0000 00:00:1751832642.401128      13 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\n"
+      "E0000 00:00:1751876166.996919      19 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\n",
+      "E0000 00:00:1751876167.048033      19 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\n",
+      "I0000 00:00:1751876179.525050      19 gpu_device.cc:2022] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 13942 MB memory:  -> device: 0, name: Tesla T4, pci bus id: 0000:00:04.0, compute capability: 7.5\n",
+      "I0000 00:00:1751876179.525695      19 gpu_device.cc:2022] Created device /job:localhost/replica:0/task:0/device:GPU:1 with 13942 MB memory:  -> device: 1, name: Tesla T4, pci bus id: 0000:00:05.0, compute capability: 7.5\n"
      ]
     },
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "(10, 96, 96, 3)\n"
+      "(8000, 96, 96, 3)\n",
+      "(8000,)\n"
+     ]
+    }
+   ],
+   "source": [
+    "import tensorflow as tf\n",
+    "X_train = tf.convert_to_tensor(X_train)\n",
+    "#y_train = tf.convert_to_tensor(y_train)\n",
+    "X_test = tf.convert_to_tensor(X_test)\n",
+    "#y_test = tf.convert_to_tensor(y_test)\n",
+    "print(X_train.shape)\n",
+    "print(y_train.shape)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b81d41f1",
+   "metadata": {
+    "papermill": {
+     "duration": 0.00431,
+     "end_time": "2025-07-07T08:16:21.863067",
+     "exception": false,
+     "start_time": "2025-07-07T08:16:21.858757",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "# Train the first model"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "id": "aca8d4fe",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-07T08:16:21.872776Z",
+     "iopub.status.busy": "2025-07-07T08:16:21.872332Z",
+     "iopub.status.idle": "2025-07-07T08:16:23.071390Z",
+     "shell.execute_reply": "2025-07-07T08:16:23.070772Z"
+    },
+    "papermill": {
+     "duration": 1.205332,
+     "end_time": "2025-07-07T08:16:23.072723",
+     "exception": false,
+     "start_time": "2025-07-07T08:16:21.867391",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "/usr/local/lib/python3.11/dist-packages/keras/src/layers/convolutional/base_conv.py:107: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.\n",
+      "  super().__init__(activity_regularizer=activity_regularizer, **kwargs)\n"
+     ]
+    }
+   ],
+   "source": [
+    "from tensorflow.keras.models import Sequential\n",
+    "from tensorflow.keras.layers import Conv2D, MaxPooling2D, Dense, Flatten\n",
+    "\n",
+    "num_filters = 3\n",
+    "filter_size = 3\n",
+    "pool_size = 2\n",
+    "input_shape = (96,96,3)\n",
+    "\n",
+    "model = Sequential([\n",
+    "  Conv2D(num_filters, filter_size, input_shape=(96,96,3)),\n",
+    "  MaxPooling2D(pool_size=pool_size),\n",
+    "  Flatten(),\n",
+    "  Dense(2, activation='sigmoid'),\n",
+    "])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "928eb40d",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-07T08:16:23.083112Z",
+     "iopub.status.busy": "2025-07-07T08:16:23.082563Z",
+     "iopub.status.idle": "2025-07-07T08:16:23.086460Z",
+     "shell.execute_reply": "2025-07-07T08:16:23.085694Z"
+    },
+    "papermill": {
+     "duration": 0.009981,
+     "end_time": "2025-07-07T08:16:23.087572",
+     "exception": false,
+     "start_time": "2025-07-07T08:16:23.077591",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<Sequential name=sequential, built=True>\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(model)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "358f09ff",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-07T08:16:23.097093Z",
+     "iopub.status.busy": "2025-07-07T08:16:23.096915Z",
+     "iopub.status.idle": "2025-07-07T08:16:23.108255Z",
+     "shell.execute_reply": "2025-07-07T08:16:23.107554Z"
+    },
+    "papermill": {
+     "duration": 0.017408,
+     "end_time": "2025-07-07T08:16:23.109313",
+     "exception": false,
+     "start_time": "2025-07-07T08:16:23.091905",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "model.compile(\n",
+    "  'adam',\n",
+    "  loss='categorical_crossentropy',\n",
+    "  metrics=['accuracy'],\n",
+    ")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "b5c83169",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-07T08:16:23.118953Z",
+     "iopub.status.busy": "2025-07-07T08:16:23.118748Z",
+     "iopub.status.idle": "2025-07-07T08:17:01.492346Z",
+     "shell.execute_reply": "2025-07-07T08:17:01.491739Z"
+    },
+    "papermill": {
+     "duration": 38.379655,
+     "end_time": "2025-07-07T08:17:01.493479",
+     "exception": false,
+     "start_time": "2025-07-07T08:16:23.113824",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Epoch 1/30\n"
      ]
     },
     {
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "2025-07-06 20:11:00.737685: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)\n"
+      "WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n",
+      "I0000 00:00:1751876184.594718      62 service.cc:148] XLA service 0x79704002b8c0 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:\n",
+      "I0000 00:00:1751876184.595361      62 service.cc:156]   StreamExecutor device (0): Tesla T4, Compute Capability 7.5\n",
+      "I0000 00:00:1751876184.595386      62 service.cc:156]   StreamExecutor device (1): Tesla T4, Compute Capability 7.5\n",
+      "I0000 00:00:1751876184.759927      62 cuda_dnn.cc:529] Loaded cuDNN version 90300\n"
      ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "\u001b[1m 47/250\u001b[0m \u001b[32m━━━\u001b[0m\u001b[37m━━━━━━━━━━━━━━━━━\u001b[0m \u001b[1m0s\u001b[0m 3ms/step - accuracy: 0.5830 - loss: 0.7651"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "I0000 00:00:1751876186.121643      62 device_compiler.h:188] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m5s\u001b[0m 7ms/step - accuracy: 0.6342 - loss: 0.6734 - val_accuracy: 0.7150 - val_loss: 0.5947\n",
+      "Epoch 2/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 4ms/step - accuracy: 0.7254 - loss: 0.5561 - val_accuracy: 0.7300 - val_loss: 0.5653\n",
+      "Epoch 3/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 4ms/step - accuracy: 0.7588 - loss: 0.5168 - val_accuracy: 0.7300 - val_loss: 0.5630\n",
+      "Epoch 4/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 4ms/step - accuracy: 0.7826 - loss: 0.4820 - val_accuracy: 0.7130 - val_loss: 0.5842\n",
+      "Epoch 5/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 4ms/step - accuracy: 0.7993 - loss: 0.4574 - val_accuracy: 0.7225 - val_loss: 0.5996\n",
+      "Epoch 6/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 4ms/step - accuracy: 0.8165 - loss: 0.4273 - val_accuracy: 0.7090 - val_loss: 0.6117\n",
+      "Epoch 7/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.8239 - loss: 0.4067 - val_accuracy: 0.7090 - val_loss: 0.6292\n",
+      "Epoch 8/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.8442 - loss: 0.3827 - val_accuracy: 0.6705 - val_loss: 0.6781\n",
+      "Epoch 9/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.8527 - loss: 0.3681 - val_accuracy: 0.6780 - val_loss: 0.6810\n",
+      "Epoch 10/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.8654 - loss: 0.3475 - val_accuracy: 0.6800 - val_loss: 0.6990\n",
+      "Epoch 11/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 4ms/step - accuracy: 0.8697 - loss: 0.3229 - val_accuracy: 0.6650 - val_loss: 0.7696\n",
+      "Epoch 12/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.8842 - loss: 0.3080 - val_accuracy: 0.6775 - val_loss: 0.7539\n",
+      "Epoch 13/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9064 - loss: 0.2813 - val_accuracy: 0.6710 - val_loss: 0.8029\n",
+      "Epoch 14/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.8990 - loss: 0.2749 - val_accuracy: 0.6570 - val_loss: 0.8335\n",
+      "Epoch 15/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9095 - loss: 0.2577 - val_accuracy: 0.6750 - val_loss: 0.8546\n",
+      "Epoch 16/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9154 - loss: 0.2565 - val_accuracy: 0.6740 - val_loss: 0.8860\n",
+      "Epoch 17/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9280 - loss: 0.2252 - val_accuracy: 0.6670 - val_loss: 0.9230\n",
+      "Epoch 18/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9288 - loss: 0.2168 - val_accuracy: 0.6465 - val_loss: 0.9753\n",
+      "Epoch 19/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9344 - loss: 0.2105 - val_accuracy: 0.6590 - val_loss: 0.9903\n",
+      "Epoch 20/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9444 - loss: 0.1916 - val_accuracy: 0.6575 - val_loss: 1.0219\n",
+      "Epoch 21/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9492 - loss: 0.1775 - val_accuracy: 0.6555 - val_loss: 1.0756\n",
+      "Epoch 22/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9567 - loss: 0.1695 - val_accuracy: 0.6455 - val_loss: 1.1313\n",
+      "Epoch 23/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9571 - loss: 0.1620 - val_accuracy: 0.6365 - val_loss: 1.1804\n",
+      "Epoch 24/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9635 - loss: 0.1511 - val_accuracy: 0.6470 - val_loss: 1.1841\n",
+      "Epoch 25/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9666 - loss: 0.1436 - val_accuracy: 0.6505 - val_loss: 1.2344\n",
+      "Epoch 26/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 4ms/step - accuracy: 0.9699 - loss: 0.1367 - val_accuracy: 0.6525 - val_loss: 1.3107\n",
+      "Epoch 27/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9687 - loss: 0.1344 - val_accuracy: 0.6550 - val_loss: 1.3178\n",
+      "Epoch 28/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 5ms/step - accuracy: 0.9729 - loss: 0.1206 - val_accuracy: 0.6535 - val_loss: 1.3569\n",
+      "Epoch 29/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 4ms/step - accuracy: 0.9704 - loss: 0.1223 - val_accuracy: 0.6450 - val_loss: 1.4010\n",
+      "Epoch 30/30\n",
+      "\u001b[1m250/250\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 4ms/step - accuracy: 0.9813 - loss: 0.1044 - val_accuracy: 0.6270 - val_loss: 1.4721\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "<keras.src.callbacks.history.History at 0x79720f2f2350>"
+      ]
+     },
+     "execution_count": 19,
+     "metadata": {},
+     "output_type": "execute_result"
     }
    ],
    "source": [
-    "import tensorflow as tf\n",
-    "tensor = tf.convert_to_tensor(x_train)\n",
-    "print(tensor.shape)"
+    "from tensorflow.keras.utils import to_categorical\n",
+    "\n",
+    "model.fit(\n",
+    "  X_train,\n",
+    "  to_categorical(y_train),\n",
+    "  epochs=30,\n",
+    "  validation_data=(X_test, to_categorical(y_test)))"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "60bedf53",
+   "id": "80d86979",
    "metadata": {
     "papermill": {
-     "duration": 0.005016,
-     "end_time": "2025-07-06T20:11:00.790361",
+     "duration": 0.027399,
+     "end_time": "2025-07-07T08:17:01.549302",
      "exception": false,
-     "start_time": "2025-07-06T20:11:00.785345",
+     "start_time": "2025-07-07T08:17:01.521903",
      "status": "completed"
     },
     "tags": []
@@ -720,7 +911,7 @@
  ],
  "metadata": {
   "kaggle": {
-   "accelerator": "none",
+   "accelerator": "nvidiaTeslaT4",
    "dataSources": [
     {
      "databundleVersionId": 862157,
@@ -729,7 +920,7 @@
     }
    ],
    "dockerImageVersionId": 31040,
-   "isGpuEnabled": false,
+   "isGpuEnabled": true,
    "isInternetEnabled": true,
    "language": "python",
    "sourceType": "notebook"
@@ -753,14 +944,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 45.322657,
-   "end_time": "2025-07-06T20:11:04.256640",
+   "duration": 157.275982,
+   "end_time": "2025-07-07T08:17:05.550622",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-07-06T20:10:18.933983",
+   "start_time": "2025-07-07T08:14:28.274640",
    "version": "2.6.0"
   }
  },
